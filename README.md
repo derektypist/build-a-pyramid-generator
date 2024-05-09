@@ -14,4 +14,4 @@ On [GitHub Pages](https://derektypist.github.io/build-a-pyramid-generator/) at t
 
 ### Acknowledgements
 
-[FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
+[FreeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
